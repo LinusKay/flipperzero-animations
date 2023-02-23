@@ -28,3 +28,8 @@ Animations created following [Talking Sasquach's Flipper Zero Animation Process]
 Check through this doc for more details on what the `weight` and other such values mean.
 
 Happy flipping!
+
+---
+
+funky_skeleton
+![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
