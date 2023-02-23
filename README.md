@@ -43,6 +43,10 @@ crab_fit
 
 ![crab.fit logo](https://i.imgur.com/WHXRk0k.png)
 
+crab_rave
+
+![crab rave](https://i.imgur.com/lvUZNth.gif)
+
 funky_skeleton
 
 ![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
