@@ -42,3 +42,10 @@ Max butthurt: 14
 Min level: 1
 Max level: 3
 Weight: 3
+
+Name: burger_spin
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
