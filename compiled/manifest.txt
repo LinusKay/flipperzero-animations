@@ -49,3 +49,17 @@ Max butthurt: 14
 Min level: 1
 Max level: 3
 Weight: 3
+
+Name: keepo_cloud
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: not_an_ied
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
