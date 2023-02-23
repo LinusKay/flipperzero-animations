@@ -1,0 +1,37 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: funky_skeleton
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: skeleton_chair
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: RISC_eye
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
+
+Name: bit_3d
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 333
+
+Name: crab_fit
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 3
