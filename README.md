@@ -39,6 +39,10 @@ bit_3d
 
 ![Bit 3D glasses](https://i.imgur.com/M1nbzTY.png)
 
+burger_spin
+
+![spinning burger](https://i.imgur.com/kSUIc2w.gif)
+
 crab_fit
 
 ![crab.fit logo](https://i.imgur.com/WHXRk0k.png)
