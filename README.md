@@ -1,7 +1,10 @@
 # Flipper Zero Animations
 A collection of my custom Flipper Zero background animations
 
+I've included both the finished (compiled) animations, as well as their source (raw) files. Only the compiled versions will actually work on the flipper. 
+
 To add an animation to your flipper:
+* Download the animation you want from  the `raw` folder
 * Connect your flipper to your PC
 * Open qFlipper
 * File Manager -> SD Card -> dolphin
