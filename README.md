@@ -55,6 +55,14 @@ funky_skeleton
 
 ![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
 
+keepo_cloud
+
+![keepo cloud](https://i.imgur.com/DOvs0oR.png)
+
+not_an_ied
+
+![not an ied](https://i.imgur.com/wgW3hJC.png)
+
 skeleton_chair
 
 ![skeleton in a wheelchair???](https://i.imgur.com/98vmeFS.gif)
