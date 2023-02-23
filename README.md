@@ -29,7 +29,24 @@ Check through this doc for more details on what the `weight` and other such valu
 
 Happy flipping!
 
----
+## Previews
+
+RISC_eye (needs work)
+
+![RISC club logo](https://i.imgur.com/z6GXLtn.png)
+
+bit_3d
+
+![Bit 3D glasses](https://i.imgur.com/M1nbzTY.png)
+
+crab_fit
+
+![crab.fit logo](https://i.imgur.com/WHXRk0k.png)
 
 funky_skeleton
+
 ![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
+
+skeleton_chair
+
+![skeleton in a wheelchair???](https://i.imgur.com/98vmeFS.gif)
