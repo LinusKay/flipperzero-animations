@@ -7,7 +7,7 @@ To add an animation to your flipper:
 * Download the animation you want from  the `raw` folder
 * Connect your flipper to your PC
 * Open qFlipper
-* File Manager -> SD Card -> dolphin
+* Within the file manager, navigate to `SD Card/dolphin`
 * Drag/upload the folder of the animation you want into your Flipper
 * Download the manifest.txt from your Flipper
 * Copy the corresponding block from my manifest.txt into yours
@@ -31,29 +31,13 @@ Happy flipping!
 
 ## Previews
 
-RISC_eye (needs work)
-
-![RISC club logo](https://i.imgur.com/z6GXLtn.png)
-
-bit_3d
-
-![Bit 3D glasses](https://i.imgur.com/M1nbzTY.png)
-
 burger_spin
 
 ![spinning burger](https://i.imgur.com/kSUIc2w.gif)
 
-crab_fit
-
-![crab.fit logo](https://i.imgur.com/WHXRk0k.png)
-
 crab_rave
 
 ![crab rave](https://i.imgur.com/lvUZNth.gif)
-
-dandrews
-
-![dandrews](https://i.imgur.com/HlRhhB6.png)
 
 funky_skeleton
 
@@ -67,6 +51,10 @@ not_an_ied
 
 ![not an ied](https://i.imgur.com/wgW3hJC.png)
 
-skeleton_chair
+pluto_atom
 
-![skeleton in a wheelchair???](https://i.imgur.com/98vmeFS.gif)
+![pluto atom](https://i.imgur.com/TRVbqax.png)
+
+pluto_montblanc
+
+![pluto montblanc](https://i.imgur.com/Msz3upd.png)
