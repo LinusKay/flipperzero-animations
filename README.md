@@ -1,7 +1,7 @@
 # Flipper Zero Animations
 A collection of my custom Flipper Zero background animations
 
-I've included both the finished (compiled) animations, as well as their source (raw) files. Only the compiled versions will actually work on the flipper. 
+I've included both the finished (compiled) animations, as well as their source (raw) files for further modification. Only the compiled versions will actually work on the flipper. 
 
 To add an animation to your flipper:
 * Download the animation you want from  the `raw` folder
@@ -55,6 +55,14 @@ pluto_atom
 
 ![pluto atom](https://i.imgur.com/TRVbqax.png)
 
+pluto_brau1589
+
+![pluto atom](https://i.imgur.com/Z62xaCs.png)
+
 pluto_montblanc
 
 ![pluto montblanc](https://i.imgur.com/Msz3upd.png)
+
+pluto_tenma
+
+![pluto tenma](https://i.imgur.com/EnZVJtV.png)
