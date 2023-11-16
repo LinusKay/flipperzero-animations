@@ -1,0 +1,12 @@
+![not an ied flipper preview](https://i.imgur.com/wgW3hJC.png)
+
+```
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: LinusKay_not_an_ied_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5```
