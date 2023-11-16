@@ -1,0 +1,86 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: LinusKay_bit_3d_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_burger_spin_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_crab_fit_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_crab_rave_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_dandrews_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_funky_skeleton_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_keepo_cloud_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_not_an_ied_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_pluto_atom_fx_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_pluto_atom_light_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_RISC_eye_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
+
+Name: LinusKay_skeleton_chair_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 3
+Weight: 5
