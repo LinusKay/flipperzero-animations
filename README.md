@@ -68,6 +68,7 @@ Happy flipping!
 ![pluto montblanc](https://i.imgur.com/Msz3upd.png)
 
 * pluto_sequence
+
 ![pluto sequence flipper preview](https://i.imgur.com/sjcQi62.gif)
 
 * pluto_tenma
@@ -81,3 +82,19 @@ Happy flipping!
 * pluto_title_light
 
 ![pluto title light](https://i.imgur.com/lbPkjkA.png)
+
+* woh_apartment_stalker
+
+![woh apartment stalker flipper preview](https://i.imgur.com/SXph8hI.png)
+
+* woh_dog
+
+![woh dog flipper preview](https://i.imgur.com/4oPdcpB.png)
+
+* woh_kirie
+
+![woh kirie flipper preview](https://i.imgur.com/rsxoz0o.png)
+
+* woh_kouji
+
+![woh kouji flipper preview](https://i.imgur.com/yT9vIzR.png)
