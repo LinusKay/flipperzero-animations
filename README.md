@@ -31,29 +31,9 @@ Happy flipping!
 
 ---
 
-## misc
-
-* burger_spin
-
-![spinning burger](https://i.imgur.com/kSUIc2w.gif)
-
-* crab_rave
-
-![crab rave](https://i.imgur.com/lvUZNth.gif)
-
-* funky_skeleton
-
-![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
-
-* keepo_cloud
-
-![keepo cloud](https://i.imgur.com/DOvs0oR.png)
-
-* not_an_ied
-
-![not an ied](https://i.imgur.com/wgW3hJC.png)
-
 ## movies-tv
+
+*Pluto (2023)*
 
 * pluto_atom
 
@@ -83,6 +63,10 @@ Happy flipping!
 
 ![pluto title light](https://i.imgur.com/lbPkjkA.png)
 
+## games
+
+*World of Horror (2023)*
+
 * woh_apartment_stalker
 
 ![woh apartment stalker flipper preview](https://i.imgur.com/SXph8hI.png)
@@ -98,3 +82,26 @@ Happy flipping!
 * woh_kouji
 
 ![woh kouji flipper preview](https://i.imgur.com/yT9vIzR.png)
+
+
+## misc
+
+* burger_spin
+
+![spinning burger](https://i.imgur.com/kSUIc2w.gif)
+
+* crab_rave
+
+![crab rave](https://i.imgur.com/lvUZNth.gif)
+
+* funky_skeleton
+
+![a funky skeleton](https://i.imgur.com/CBipO7l.gif)
+
+* keepo_cloud
+
+![keepo cloud](https://i.imgur.com/DOvs0oR.png)
+
+* not_an_ied
+
+![not an ied](https://i.imgur.com/wgW3hJC.png)
