@@ -67,6 +67,9 @@ Happy flipping!
 
 ![pluto montblanc](https://i.imgur.com/Msz3upd.png)
 
+* pluto_sequence
+![pluto sequence flipper preview](https://i.imgur.com/sjcQi62.gif)
+
 * pluto_tenma
 
 ![pluto tenma](https://i.imgur.com/EnZVJtV.png)
