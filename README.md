@@ -70,3 +70,11 @@ Happy flipping!
 * pluto_tenma
 
 ![pluto tenma](https://i.imgur.com/EnZVJtV.png)
+
+* pluto_title_dark
+
+![pluto title dark](https://i.imgur.com/CIiMRDj.png)
+
+* pluto_title_light
+
+![pluto title light](https://i.imgur.com/lbPkjkA.png)

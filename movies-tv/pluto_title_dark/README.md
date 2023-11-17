@@ -1,4 +1,4 @@
-![pluto atom flipper preview]()
+![pluto title dark flipper preview](https://i.imgur.com/CIiMRDj.png)
 
 ```
 Filetype: Flipper Animation Manifest
